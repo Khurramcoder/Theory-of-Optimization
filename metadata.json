@@ -1,0 +1,6 @@
+{
+  "name": "Optimization Techniques Visual Explorer",
+  "description": "An interactive university-level educational platform for Optimization Theory, Mathematical Programming, Numerical Optimization, Convex Analysis, and Engineering Optimization with 3D simulations and algorithm visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
